@@ -1,0 +1,50 @@
+body{
+font-family: 'Architects Daughter', cursive;
+  font-weight: bolder;
+  margin:0;
+
+
+}
+.images{
+  padding-right:2.5%;
+ text-align: center;
+}
+ #title {
+  background-color: #F9F7DC;
+
+}
+.title{
+padding-top: 4%;
+  line-height: 2%;
+
+}
+#products{
+  background-color: #f9f7dc;
+  text-align: center;
+  padding-right: 445%;
+
+}
+.container{
+  text-align: center;
+
+}
+.navbar{
+
+    background-color: #2B2B2B;
+
+}
+h1{
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+
+
+}
+h4{
+  text-align: center;
+}
+#about{
+  background-color:#C8C2BC;
+    text-align: center;
+padding-bottom: 15%;
+
+}
